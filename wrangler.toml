@@ -1,8 +1,3 @@
 name = "cobol-worker"
-type = "webpack"
-webpack_config = "webpack.config.js"
-
-account_id = ""
-workers_dev = true
-route = ""
-zone_id = ""
+main = "src/index.js"
+compatibility_date = "2022-09-16"
