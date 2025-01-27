@@ -10,9 +10,9 @@
     "preview": "wrangler preview"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "^5.1.1",
+    "copy-webpack-plugin": "^11.0.0",
     "text-encoding": "^0.7.0",
-    "webpack": "^4.42.1"
+    "webpack": "^5.75.0"
   },
   "description": "A template for kick starting a Cloudflare Workers project",
   "license": "MIT"
